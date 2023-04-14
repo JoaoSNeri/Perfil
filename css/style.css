@@ -1,0 +1,43 @@
+@import url('https://fonts.cdnfonts.com/css/arial-2');
+
+body{
+    background-color: #ffffff;
+    font-family: 'Arial', sans-serif;
+}
+.divlogo{
+    background-color: #ffffff;
+    text-align: center;
+}
+.div1{
+    text-align: center;
+    padding-bottom: 5%;
+    background-color:#5ce1e6;
+}
+#paragrafo1{
+    color:#ffffff;
+    font-size: 150%;
+    text-align: justify;
+    margin-bottom: auto;    
+}
+.div2{
+    text-align: center;
+    padding: 5px;
+    background-color:#5ce1e6 ;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    padding: 5%;
+    color: #b6b6b6;
+    font-size: 45PX;
+}
+img{
+    margin: 60px; 
+}
+.h1imagens{
+    text-align: center;
+}
+
